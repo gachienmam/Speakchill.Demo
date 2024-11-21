@@ -11,3 +11,4 @@
 ## Technologies
 - AvaloniaUI (frontend)
 - Supabase (database, auth)
+- LLaMa 3 (creating lessons, conversations)
